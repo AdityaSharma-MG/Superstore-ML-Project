@@ -79,7 +79,7 @@ The dataset contains information on customer orders, sales, profit, products, sh
 
 ## Dashboard Preview
 
-![Superstore-ML-Project](Dashboards/preview.png)
+![superstore_DA_project](Dashboards/preview.png)
 
 ## Repository Structure
 
